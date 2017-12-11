@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Welcome
 ---
 UIN Suska Riau Jurusan SIstem Informasi Fakultas Sains dan Teknologi
 Nama  : Zetryan Satria 
